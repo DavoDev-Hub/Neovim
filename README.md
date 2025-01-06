@@ -1,7 +1,1 @@
-# NeovimDavoDev
-# NeovimDavoDev
-# NeovimDavoDev
-# NeovimDavoDev
-# NeovimDavoDev
-# NeovimDavoDev
-# NeovimDavoDev
+MIS SETTINGS
